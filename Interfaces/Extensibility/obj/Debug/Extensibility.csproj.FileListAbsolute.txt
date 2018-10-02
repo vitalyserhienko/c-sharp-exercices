@@ -1,0 +1,6 @@
+C:\Users\Vitaly\source\repos\Interfaces\Extensibility\bin\Debug\Extensibility.exe.config
+C:\Users\Vitaly\source\repos\Interfaces\Extensibility\bin\Debug\Extensibility.exe
+C:\Users\Vitaly\source\repos\Interfaces\Extensibility\bin\Debug\Extensibility.pdb
+C:\Users\Vitaly\source\repos\Interfaces\Extensibility\obj\Debug\Extensibility.csproj.CoreCompileInputs.cache
+C:\Users\Vitaly\source\repos\Interfaces\Extensibility\obj\Debug\Extensibility.exe
+C:\Users\Vitaly\source\repos\Interfaces\Extensibility\obj\Debug\Extensibility.pdb

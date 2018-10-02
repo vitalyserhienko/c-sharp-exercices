@@ -1,0 +1,7 @@
+C:\Users\Vitaly\source\repos\Interfaces\Polymorphism\bin\Debug\Polymorphism.exe.config
+C:\Users\Vitaly\source\repos\Interfaces\Polymorphism\bin\Debug\Polymorphism.exe
+C:\Users\Vitaly\source\repos\Interfaces\Polymorphism\bin\Debug\Polymorphism.pdb
+C:\Users\Vitaly\source\repos\Interfaces\Polymorphism\obj\Debug\Polymorphism.csprojAssemblyReference.cache
+C:\Users\Vitaly\source\repos\Interfaces\Polymorphism\obj\Debug\Polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\Vitaly\source\repos\Interfaces\Polymorphism\obj\Debug\Polymorphism.exe
+C:\Users\Vitaly\source\repos\Interfaces\Polymorphism\obj\Debug\Polymorphism.pdb

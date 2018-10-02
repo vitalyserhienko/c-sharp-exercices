@@ -1,0 +1,7 @@
+C:\Users\Vitaly\source\repos\Interfaces\Testability\obj\Debug\Testability.csprojAssemblyReference.cache
+C:\Users\Vitaly\source\repos\Interfaces\Testability\obj\Debug\Testability.csproj.CoreCompileInputs.cache
+C:\Users\Vitaly\source\repos\Interfaces\Testability\bin\Debug\Testability.exe.config
+C:\Users\Vitaly\source\repos\Interfaces\Testability\bin\Debug\Testability.exe
+C:\Users\Vitaly\source\repos\Interfaces\Testability\bin\Debug\Testability.pdb
+C:\Users\Vitaly\source\repos\Interfaces\Testability\obj\Debug\Testability.exe
+C:\Users\Vitaly\source\repos\Interfaces\Testability\obj\Debug\Testability.pdb
