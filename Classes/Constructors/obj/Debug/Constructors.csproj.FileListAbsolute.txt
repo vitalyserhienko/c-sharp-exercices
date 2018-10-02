@@ -1,0 +1,7 @@
+C:\Users\Vitaly\source\repos\Classes\Constructors\bin\Debug\Constructors.exe.config
+C:\Users\Vitaly\source\repos\Classes\Constructors\bin\Debug\Constructors.exe
+C:\Users\Vitaly\source\repos\Classes\Constructors\bin\Debug\Constructors.pdb
+C:\Users\Vitaly\source\repos\Classes\Constructors\obj\Debug\Constructors.csprojAssemblyReference.cache
+C:\Users\Vitaly\source\repos\Classes\Constructors\obj\Debug\Constructors.csproj.CoreCompileInputs.cache
+C:\Users\Vitaly\source\repos\Classes\Constructors\obj\Debug\Constructors.exe
+C:\Users\Vitaly\source\repos\Classes\Constructors\obj\Debug\Constructors.pdb

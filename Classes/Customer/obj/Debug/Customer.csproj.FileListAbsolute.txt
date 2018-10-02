@@ -1,0 +1,7 @@
+C:\Users\Vitaly\source\repos\Classes\Customer\bin\Debug\Customer.exe.config
+C:\Users\Vitaly\source\repos\Classes\Customer\bin\Debug\Customer.exe
+C:\Users\Vitaly\source\repos\Classes\Customer\bin\Debug\Customer.pdb
+C:\Users\Vitaly\source\repos\Classes\Customer\obj\Debug\Customer.csprojAssemblyReference.cache
+C:\Users\Vitaly\source\repos\Classes\Customer\obj\Debug\Customer.csproj.CoreCompileInputs.cache
+C:\Users\Vitaly\source\repos\Classes\Customer\obj\Debug\Customer.exe
+C:\Users\Vitaly\source\repos\Classes\Customer\obj\Debug\Customer.pdb

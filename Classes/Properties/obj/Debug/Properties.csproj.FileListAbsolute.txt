@@ -1,0 +1,7 @@
+C:\Users\Vitaly\source\repos\Classes\Properties\bin\Debug\Properties.exe.config
+C:\Users\Vitaly\source\repos\Classes\Properties\bin\Debug\Properties.exe
+C:\Users\Vitaly\source\repos\Classes\Properties\bin\Debug\Properties.pdb
+C:\Users\Vitaly\source\repos\Classes\Properties\obj\Debug\Properties.csprojAssemblyReference.cache
+C:\Users\Vitaly\source\repos\Classes\Properties\obj\Debug\Properties.csproj.CoreCompileInputs.cache
+C:\Users\Vitaly\source\repos\Classes\Properties\obj\Debug\Properties.exe
+C:\Users\Vitaly\source\repos\Classes\Properties\obj\Debug\Properties.pdb

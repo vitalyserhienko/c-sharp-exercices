@@ -1,0 +1,6 @@
+C:\Users\Vitaly\source\repos\Classes\Casting\bin\Debug\Casting.exe.config
+C:\Users\Vitaly\source\repos\Classes\Casting\bin\Debug\Casting.exe
+C:\Users\Vitaly\source\repos\Classes\Casting\bin\Debug\Casting.pdb
+C:\Users\Vitaly\source\repos\Classes\Casting\obj\Debug\Casting.csproj.CoreCompileInputs.cache
+C:\Users\Vitaly\source\repos\Classes\Casting\obj\Debug\Casting.exe
+C:\Users\Vitaly\source\repos\Classes\Casting\obj\Debug\Casting.pdb

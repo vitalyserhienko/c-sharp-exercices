@@ -1,0 +1,7 @@
+C:\Users\Vitaly\source\repos\Classes\MethodOverriding\bin\Debug\MethodOverriding.exe.config
+C:\Users\Vitaly\source\repos\Classes\MethodOverriding\bin\Debug\MethodOverriding.exe
+C:\Users\Vitaly\source\repos\Classes\MethodOverriding\bin\Debug\MethodOverriding.pdb
+C:\Users\Vitaly\source\repos\Classes\MethodOverriding\obj\Debug\MethodOverriding.csprojAssemblyReference.cache
+C:\Users\Vitaly\source\repos\Classes\MethodOverriding\obj\Debug\MethodOverriding.csproj.CoreCompileInputs.cache
+C:\Users\Vitaly\source\repos\Classes\MethodOverriding\obj\Debug\MethodOverriding.exe
+C:\Users\Vitaly\source\repos\Classes\MethodOverriding\obj\Debug\MethodOverriding.pdb
